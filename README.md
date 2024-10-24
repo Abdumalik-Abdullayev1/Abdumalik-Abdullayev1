@@ -27,8 +27,8 @@ You can contact me at **abdumalikabdullayev10@gmail.com**.
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" />
   </a> 
   <a href="https://www.leetcode.com/abdullayevabdumalik1" target="_blank">
-    <img src="https://upload.wikimedia.org/commons/c/c7/[LeetCode_logo_black.png](https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png)" alt="LeetCode" width="40" height="40" />
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" />
+</a>
 </p>
 
 ---
