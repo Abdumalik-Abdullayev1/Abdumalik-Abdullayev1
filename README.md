@@ -17,7 +17,7 @@ You can contact me at **abdumalikabdullayev10@gmail.com**.
 ### 🤝 Connect with Me:
 
 <p align="center">
-  <a href="https://linkedin.com/in/abdumalikabdullayev" target="_blank">
+  <a href="https://linkedin.com/in/abdumalik" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
   </a> 
   <a href="https://fb.com/abdumalikabdullayev.1" target="_blank">
