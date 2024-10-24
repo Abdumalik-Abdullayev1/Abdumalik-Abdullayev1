@@ -3,6 +3,36 @@
 
 ---
 
+### 🌱 What I'm Currently Learning:
+I'm currently learning **HTML, CSS, Sass, Bootstrap, Tailwind, JavaScript, TypeScript, React.Js, Redux**.
+
+### 💬 Ask Me About:
+Feel free to ask me about **React.Js**.
+
+### 📫 How to Reach Me:
+You can contact me at **abdumalikabdullayev10@gmail.com**.
+
+---
+
+### 🤝 Connect with Me:
+
+<p align="center">
+  <a href="https://linkedin.com/in/abdumalikabdullayev" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+  </a> 
+  <a href="https://fb.com/abdumalikabdullayev.1" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40" />
+  </a>
+  <a href="https://instagram.com/abdullayev_2oo" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40" />
+  </a> 
+  <a href="https://www.leetcode.com/abdullayevabdumalik1" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40" />
+  </a>
+</p>
+
+---
+
 ### 💻 Languages and Tools:
 
 <p align="center">
