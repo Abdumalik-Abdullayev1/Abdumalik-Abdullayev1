@@ -7,7 +7,7 @@
 I'm currently learning **HTML, CSS, Sass, Bootstrap, Tailwind, JavaScript, TypeScript, React.Js, Redux**.
 
 ### 💬 Ask Me About:  
-Feel free to ask me about **React.Js**.
+Feel free to ask me about **HTML, CSS, JavaScript, React.Js**.
 
 ### 📫 How to Reach Me:
 You can contact me at **abdumalikabdullayev10@gmail.com**.
