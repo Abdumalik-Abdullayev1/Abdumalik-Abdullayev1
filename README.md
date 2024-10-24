@@ -6,10 +6,10 @@
 ### 🌱 What I'm Currently Learning:
 I'm currently learning **HTML, CSS, Sass, Bootstrap, Tailwind, JavaScript, TypeScript, React.Js, Redux**.
 
-### 💬 Ask Me About:  Feel free to ask me about **React.Js**.
+### 💬 Ask Me About:  
+Feel free to ask me about **React.Js**.
 
 ### 📫 How to Reach Me:
-
 You can contact me at **abdumalikabdullayev10@gmail.com**.
 
 ---
@@ -27,7 +27,7 @@ You can contact me at **abdumalikabdullayev10@gmail.com**.
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" />
   </a> 
   <a href="https://www.leetcode.com/abdullayevabdumalik1" target="_blank">
-    <img src="https://upload.wikimedia.org/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/commons/c/c7/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" />
   </a>
 </p>
 
