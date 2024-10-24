@@ -24,10 +24,10 @@ You can contact me at **abdumalikabdullayev10@gmail.com**.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40" />
   </a>
   <a href="https://instagram.com/abdullayev_2oo" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" />
   </a> 
   <a href="https://www.leetcode.com/abdullayevabdumalik1" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" />
   </a>
 </p>
 
